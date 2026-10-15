@@ -16,6 +16,7 @@ def main():
             key = input('Enter Key: ')
             value = input('Enter Value: ')
 
+            records[key] = value
             print('Here are the Records', records)
 
 
