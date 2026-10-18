@@ -9,7 +9,6 @@ def display_menu():
 def main():
     while True:
         display_menu()
-
         choice = input("Select an option (a, b or c): ")
 
         if choice == "a":
