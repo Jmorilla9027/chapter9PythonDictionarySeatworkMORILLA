@@ -20,7 +20,6 @@ def main():
 
             print('Here are the Records', records)
 
-
         elif choice == "b":
             key = input('Enter Key: ')
 
